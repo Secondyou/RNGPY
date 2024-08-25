@@ -1,0 +1,41 @@
+{
+    "items": [
+        {
+            "name": "10M",
+            "chance": 55,
+            "rarity": "Common"
+        },
+        {
+            "name": "20M",
+            "chance": 25,
+            "rarity": "Common"
+        },
+        {
+            "name": "50M",
+            "chance": 10,
+            "rarity": "Common"
+        },
+        {
+            "name": "100M",
+            "chance": 8,
+            "rarity": "Common"
+        },
+        {
+            "name": "Challenge Random T2",
+            "chance": 1,
+            "rarity": "Epic"
+        },
+        {
+            "name": "Challenge Random T3",
+            "chance": 1,
+            "rarity": "Legendary"
+        }
+    ],
+    "sounds": {
+        "Common": "",
+        "Uncommon": "",
+        "Rare": "",
+        "Epic": "",
+        "Legendary": ""
+    }
+}
